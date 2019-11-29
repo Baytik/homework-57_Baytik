@@ -1,0 +1,60 @@
+.App {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.input-1 {
+  margin-right: 10px;
+  border: 1px solid black;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 18px;
+  width: 180px;
+}
+.input-2 {
+  margin-right: 5px;
+  border: 1px solid black;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 18px;
+  width: 50px;
+}
+span {
+  margin-right: 20px;
+}
+.btn-1 {
+  border: 1px solid black;
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 18px;
+  background: #fff;
+  cursor: pointer;
+}
+.container {
+  margin-top: 20px;
+  border: 2px solid black;
+  width: 350px;
+}
+.Content {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-2 {
+  color: black;
+  background: white;
+  border: none;
+  cursor: pointer;
+}
+.price {
+  padding-left: 95px;
+  padding-top: 15px;
+}
+.text {
+  padding-left: 15px;
+}
+h1 {
+  font-weight: normal;
+  text-align: center;
+}
